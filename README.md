@@ -22,8 +22,8 @@ Attributes:
 | customer ID				| An ID for the customer 
 | voltage 					| Measurement of the voltage of the meter, Volts
 | real power				| Measurement of the real portion of the power flowing through the meter at time stamp, Watt
-| real energy				| Measurement of the real energy (accumulation of the real power) that has flowed through the meter, Watt/hour
-| reactive enrgy		| Measurement of the reactive energy (accumulation of the reactive power) that has flowed through the meter, VA/hours 
+| real energy				| Measurement of the real energy (accumulation of the real power) that has flowed through the meter, Watt-hour
+| reactive enrgy		| Measurement of the reactive energy (accumulation of the reactive power) that has flowed through the meter, VA-hours 
 | reactive power		| Measurement of the reactive portion of the power flowing through the meter at time stamp, Volt-Amperes	 
 | current						| Measurement of the current of the meter at time stamp, Amperes
 | apparent power		| Measurement of the apparent power (active power + reactive power) that has flowed through the meter, Volt-Amperes
