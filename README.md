@@ -47,9 +47,9 @@ Attributes:
 | Rfloor						| Floor R-value which is a measurment of the effectiveness of insulating material and heat flow across the floors, degF.sf.h/Btu
 | Rdoors					  | Door R-value which is a measurment of the effectiveness of insulating material and heat flow across the doors, degF.sf.h/Btu
 | glazing layers		| Number of layers of glass in each window
-| glass type				| Number indicating the type of window glass used (LOW_E_GLASS, GLASS, OTHER)
-| glazing treatment	| Number indicating the treatment type used for exterior windows (HIGH_S, LOW_S, REFL, ABS, CLEAR, OTHER)
-| window frame			| Number indicating the type of window frame (INSULATED, WOOD, THERMAL_BREAK, ALUMINUM, NONE)
-| heating system		| Number indicating heating mechanism for house (RESISTANCE, HEAT_PUMP, GAS, NONE)
-| cooling system		| Number indicating cooling mechanism for house (HEAT_PUMP, ELECTRIC, NONE)
+| glass type				| The type of window glass used (LOW_E_GLASS, GLASS, OTHER)
+| glazing treatment	| The treatment type used for exterior windows (HIGH_S, LOW_S, REFL, ABS, CLEAR, OTHER)
+| window frame			| The type of window frame (INSULATED, WOOD, THERMAL_BREAK, ALUMINUM, NONE)
+| heating system		| Heating mechanism for house (RESISTANCE, HEAT_PUMP, GAS, NONE)
+| cooling system		| Cooling mechanism for house (HEAT_PUMP, ELECTRIC, NONE)
 | solar area				| Area of the solar panel, ft
