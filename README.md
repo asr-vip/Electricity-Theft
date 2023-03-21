@@ -42,10 +42,10 @@ Attributes:
 | floor area				| Home conditioned floor area, sf
 | stories					  | Number of stories in the home
 | ceiling height		| Average ceiling height,ft
-| Rrrof						  | Roof R-value, degF.sf.h/Btu
-| Rwall						  | Wall R-value, degF.sf.h/Btu
-| Rfloor						| Floor R-value, degF.sf.h/Btu
-| Rdoors					  | Door R-value, degF.sf.h/Btu
+| Rrrof						  | Roof R-value which is a measurment of the effectiveness of insulating material and heat flow across the roofs, degF.sf.h/Btu
+| Rwall						  | Wall R-value which is a measurment of the effectiveness of insulating material and heat flow across the walls, degF.sf.h/Btu
+| Rfloor						| Floor R-value which is a measurment of the effectiveness of insulating material and heat flow across the floors, degF.sf.h/Btu
+| Rdoors					  | Door R-value which is a measurment of the effectiveness of insulating material and heat flow across the doors, degF.sf.h/Btu
 | glazing layers		| Number of layers of glass in each window
 | glass type				| Number indicating the type of window glass used (LOW_E_GLASS, GLASS, OTHER)
 | glazing treatment	| Number indicating the treatment type used for exterior windows (HIGH_S, LOW_S, REFL, ABS, CLEAR, OTHER)
